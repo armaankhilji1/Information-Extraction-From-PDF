@@ -103,7 +103,7 @@ SCRM        Supply Chain Risk Management<br/>
 SP          Special Publication<br/>
  
  
- **Tech Stack**
+ **Tech Stack**<br/>
 Python<br/>
 Streamlit<br/>
 LangChain<br/>
