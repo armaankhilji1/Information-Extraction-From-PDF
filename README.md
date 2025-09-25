@@ -61,57 +61,57 @@ This design ensures accuracy (answers directly from PDF) while keeping the syste
 **Query 1:**  
 **List of Tables?*  
 **Response:**  
-Table1: Table 1: Function and Category Unique Identifiers
-Table 2: Framework Core
-Table 3: Framework Glossary
+Table1: Table 1: Function and Category Unique Identifiers<br/>
+Table 2: Framework Core<br/>
+Table 3: Framework Glossary<br/>
 
 ---
 
 **Query 2:**  
 *What does the Notional Information and Decision Flows within an Organization figure define?*  
 **Response:**
-Executive
-Business/Process
-Implementation/Operations
+Executive<br/>
+Business/Process<br/>
+Implementation/Operations<br/>
 
 ---
 
 **Query 3:**  
 *List of all acronyms used in the publication.*  
 **Response:**  
-ANSI        American National Standards Institute\n
-CEA         Cybersecurity Enhancement Act of 2014\n
-CIS         Center for Internet Security 
-COBIT       Control Objectives for Information and Related Technology 
-CPS         Cyber-Physical Systems 
-CSC         Critical Security Control 
-DHS         Department of Homeland Security 
-EO          Executive Order 
-ICS         Industrial Control Systems 
-IEC         International Electrotechnical Commission 
-IoT         Internet of Things 
-IR          Interagency Report 
-ISA         International Society of Automation 
-ISAC        Information Sharing and Analysis Center 
-ISAO        Information Sharing and Analysis Organization 
-ISO         International Organization for Standardization 
-IT          Information Technology 
-NIST        National Institute of Standards and Technology 
-OT          Operational Technology 
-PII         Personally Identifiable Information 
-RFI         Request for Information 
-RMP         Risk Management Process 
-SCRM        Supply Chain Risk Management 
-SP          Special Publication 
+ANSI        American National Standards Institute<br/>
+CEA         Cybersecurity Enhancement Act of 2014<br/>
+CIS         Center for Internet Security<br/>
+COBIT       Control Objectives for Information and Related Technology<br/> 
+CPS         Cyber-Physical Systems<br/>
+CSC         Critical Security Control<br/>
+DHS         Department of Homeland Security<br/> 
+EO          Executive Order<br/>
+ICS         Industrial Control Systems<br/> 
+IEC         International Electrotechnical Commission<br/>
+IoT         Internet of Things<br/>
+IR          Interagency Report<br/>
+ISA         International Society of Automation<br/>
+ISAC        Information Sharing and Analysis Center<br/>
+ISAO        Information Sharing and Analysis Organization<br/> 
+ISO         International Organization for Standardization<br/>
+IT          Information Technology<br/>
+NIST        National Institute of Standards and Technology<br/> 
+OT          Operational Technology<br/>
+PII         Personally Identifiable Information<br/> 
+RFI         Request for Information<br/>
+RMP         Risk Management Process<br/>
+SCRM        Supply Chain Risk Management<br/> 
+SP          Special Publication<br/>
  
  
  **Tech Stack**
-Python
-Streamlit
-LangChain
-FAISS
-HuggingFace Embeddings
-Google Gemini API
+Python<br/>
+Streamlit<br/>
+LangChain<br/>
+FAISS<br/>
+HuggingFace Embeddings<br/>
+Google Gemini API<br/>
  
  
  
