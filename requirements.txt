@@ -1,0 +1,19 @@
+# Streamlit UI
+streamlit
+
+# PDF reading
+PyPDF2
+
+# LangChain core & Google Gemini
+langchain-core
+langchain-google-genai
+langchain-huggingface
+langchain-text-splitters
+langchain-community
+
+# Embeddings and vector search
+sentence-transformers
+faiss-cpu
+
+# Utilities
+typing-extensions
