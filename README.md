@@ -8,13 +8,12 @@ The system uses LangChain, HuggingFace embeddings, FAISS vector store, and Googl
 git clone <your-repo-link><br/>
 cd <your-repo-folder><br/>
 
-2. Create Virtual Environment:<br/>
+3. Create Virtual Environment:<br/>
 python -m venv venv<br/>
 
-3. Activate Virtual Environment:<br/>
+4. Activate Virtual Environment:<br/>
 Windows (PowerShell):<br/>
 .\venv\Scripts\activate<br/>
-
 Mac/Linux:<br/>
 source venv/bin/activate<br/>
 
