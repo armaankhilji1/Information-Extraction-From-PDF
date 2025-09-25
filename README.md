@@ -5,8 +5,8 @@ The system uses LangChain, HuggingFace embeddings, FAISS vector store, and Googl
 
 **How to Run**
 1. Clone the Repository:<br/>
-git clone <your-repo-link><br/>
-cd <your-repo-folder><br/>
+git clone your-repo-link<br/>
+cd your-repo-folder<br/>
 
 3. Create Virtual Environment:<br/>
 python -m venv venv<br/>
@@ -14,6 +14,7 @@ python -m venv venv<br/>
 4. Activate Virtual Environment:<br/>
 Windows (PowerShell):<br/>
 .\venv\Scripts\activate<br/>
+
 Mac/Linux:<br/>
 source venv/bin/activate<br/>
 
@@ -57,7 +58,7 @@ This design ensures accuracy (answers directly from PDF) while keeping the syste
 **Uploaded PDF:** NIST.CSWP.04162018.pdf
 
 **Query 1:**  
-**List of Tables?*  
+*List of Tables?*  
 **Response:**  
 Table1: Table 1: Function and Category Unique Identifiers<br/>
 Table 2: Framework Core<br/>
