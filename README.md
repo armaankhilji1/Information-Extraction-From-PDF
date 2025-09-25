@@ -14,8 +14,7 @@ python -m venv venv<br/>
 4. Activate Virtual Environment:<br/>
 Windows (PowerShell):<br/>
 .\venv\Scripts\activate<br/>
-
-Mac/Linux:<br/>
+<br/>Mac/Linux:<br/>
 source venv/bin/activate<br/>
 
 4. Install Dependencies:<br/>
