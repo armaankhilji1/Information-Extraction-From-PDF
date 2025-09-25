@@ -79,8 +79,8 @@ Implementation/Operations
 **Query 3:**  
 *List of all acronyms used in the publication.*  
 **Response:**  
-ANSI        American National Standards Institute
-CEA         Cybersecurity Enhancement Act of 2014
+ANSI        American National Standards Institute\n
+CEA         Cybersecurity Enhancement Act of 2014\n
 CIS         Center for Internet Security 
 COBIT       Control Objectives for Information and Related Technology 
 CPS         Cyber-Physical Systems 
