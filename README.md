@@ -4,26 +4,25 @@ A Streamlit-based app that allows you to upload a PDF and then ask questions dir
 The system uses LangChain, HuggingFace embeddings, FAISS vector store, and Google Gemini API to retrieve and answer questions from the uploaded PDF.
 
 **How to Run**
-1. Clone the Repository:
-git clone <your-repo-link>
-cd <your-repo-folder>
+1. Clone the Repository:<br/>
+git clone <your-repo-link><br/>
+cd <your-repo-folder><br/>
 
-2. Create Virtual Environment:
-python -m venv venv
+2. Create Virtual Environment:<br/>
+python -m venv venv<br/>
 
-3. Activate Virtual Environment:
+3. Activate Virtual Environment:<br/>
+Windows (PowerShell):<br/>
+.\venv\Scripts\activate<br/>
 
-Windows (PowerShell):
-.\venv\Scripts\activate
+Mac/Linux:<br/>
+source venv/bin/activate<br/>
 
-Mac/Linux:
-source venv/bin/activate
+4. Install Dependencies:<br/>
+pip install -r requirements.txt<br/>
 
-4. Install Dependencies:
-pip install -r requirements.txt
-
-5. Run the App:
-streamlit run app.py
+5. Run the App:<br/>
+streamlit run app.py<br/>
 
 **Usage**
 1. Upload any PDF document.
